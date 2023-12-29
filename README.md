@@ -1,0 +1,2 @@
+Install requirements
+- import openai
